@@ -2,7 +2,7 @@
 
 I’m a **Junior Full-Stack Developer** with hands-on experience building scalable and elegant web applications using **Angular, React, Node.js, Java, Python, and SQL**. Currently expanding my skills in **Artificial Intelligence, Machine Learning**, and **low-level C programming** through the rigorous peer-to-peer methodology at **42 Málaga – Telefónica**.
 
-My background in **product development, project management, and digital design** gives me a unique perspective: I love crafting solutions where **clean architecture, usability, and creativity** meet.
+I approach software as an experience shaped by **usability, visual psychology, and creative problem-solving**. I enjoy crafting solutions where **clean architecture and thoughtful design** come together to create intuitive, meaningful products.
 
 
 ## 🚀 Tech Stack
@@ -42,8 +42,9 @@ Low-level programming challenges covering memory management, pointers, debugging
 
 ## 🎨 What Drives Me
 
-I enjoy turning complex problems into clean, maintainable systems.  
-I’m passionate about the intersection between **technology, design, and user-focused thinking** — building software that not only works, but feels right.
+With a background in design, I approach software as both a technical craft and a creative experience. I’m driven by how **psychology, visual language, and user behavior** shape the way people interact with digital products.
+
+I enjoy turning ideas into intuitive interfaces and clean architectures — where **creativity meets logic** and every detail has a purpose. My goal is to build software that not only works well, but also feels right.
 
 
 ## 📫 Let’s Connect
