@@ -24,7 +24,6 @@ My background in **product development, project management, and digital design**
 - Git · Linux · Figma · Agile/Scrum  
 - Debugging, algorithms, clean code principles
 
----
 
 ## 🛠️ Featured Projects
 
@@ -40,14 +39,12 @@ Exploratory data analysis, preprocessing pipelines, supervised learning models, 
 ### 🔹 **42 Projects – C & Algorithms**
 Low-level programming challenges covering memory management, pointers, debugging, and constraint-based problem solving.
 
----
 
 ## 🎨 What Drives Me
 
 I enjoy turning complex problems into clean, maintainable systems.  
 I’m passionate about the intersection between **technology, design, and user-focused thinking** — building software that not only works, but feels right.
 
----
 
 ## 📫 Let’s Connect
 
@@ -55,7 +52,6 @@ I’m passionate about the intersection between **technology, design, and user-f
 - **Portfolio (optional):**  https://portfolio-web-maria-rosa-bravo-s-projects.vercel.app/es 
 - **Email:** mrbravogil@gmail.com  
 
----
 
 ### ✨ *Always building, always learning.*
 
