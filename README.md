@@ -1,6 +1,8 @@
 <p></p>
 <h1 align="center"> 👋 Hi, I’m María — Full-Stack Developer & AI Enthusiast </h1>
 
+
+
 I’m a **Junior Full-Stack Developer** with hands-on experience building scalable and elegant web applications using **Angular, React, Node.js, Java, Python, and SQL**. Currently expanding my skills in **Artificial Intelligence, Machine Learning**, and **low-level C programming** through the rigorous peer-to-peer methodology at **42 Málaga – Telefónica**.
 
 I approach software as an experience shaped by **usability, visual psychology, and creative problem-solving**. I enjoy crafting solutions where **clean architecture and thoughtful design** come together to create intuitive, meaningful products.
