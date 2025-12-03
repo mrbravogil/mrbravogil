@@ -29,10 +29,12 @@ I approach software as an experience shaped by **usability, visual psychology, a
 
 ### 🔹 **Full-Stack Web Application (React + Node.js + MySQL)**
 A complete CRUD platform with user authentication, modular components, responsive UI, and RESTful API integration.
+
 **Customizable Trivial :** https://github.com/mrbravogil/Trivial-Customizable 
 
 ### 🔹 **Angular Project – Component-Driven Architecture**
 Frontend application showcasing routing, services, state handling, and reusable UI components.
+
 **Interactive Map App :** https://zesty-baklava-649003.netlify.app/
 
 ### 🔹 **Machine Learning Models (Python + Scikit-learn)**
@@ -40,6 +42,7 @@ Exploratory data analysis, preprocessing pipelines, supervised learning models, 
 
 ### 🔹 **42 Projects – C & Algorithms**
 Low-level programming challenges covering memory management, pointers, debugging, and constraint-based problem solving.
+
 **Libft :** https://github.com/mrbravogil/libft
 
 
