@@ -1,33 +1,28 @@
 <div align="center">
+  <h2>💜 Hi, I’m María — Full-Stack Developer & AI Enthusiast</h2>
 
-  <table>
-    <tr>
-      <td>
+  <p>
+    I’m a <strong>Junior Full-Stack Developer</strong> with hands-on experience 
+    building scalable and elegant web applications using 
+    <strong>Angular, React, Node.js, Java, Python, and SQL</strong>.
+  </p>
 
-        <h2>💜 Hi, I’m María — Full-Stack Developer & AI Enthusiast</h2>
+  <p>
+    Currently expanding my skills in 
+    <strong>Artificial Intelligence, Machine Learning</strong>, and 
+    <strong>low-level C programming</strong> through the rigorous peer-to-peer 
+    methodology at <strong>42 Málaga – Telefónica</strong>.
+  </p>
 
-        <p>
-          I’m a <strong>Junior Full-Stack Developer</strong> with hands-on experience building scalable and elegant web applications using 
-          <strong>Angular, React, Node.js, Java, Python, and SQL</strong>.
-        </p>
-
-        <p>
-          Currently expanding my skills in <strong>Artificial Intelligence, Machine Learning</strong>, and 
-          <strong>low-level C programming</strong> through the rigorous peer-to-peer methodology at 
-          <strong>42 Málaga – Telefónica</strong>.
-        </p>
-
-        <p>
-          I approach software as an experience shaped by 
-          <strong>usability, visual psychology, and creative problem-solving</strong>.<br>
-          I enjoy crafting solutions where <strong>clean architecture and thoughtful design</strong> come together to create intuitive, meaningful products.
-        </p>
-
-      </td>
-    </tr>
-  </table>
-
+  <p>
+    I approach software as an experience shaped by 
+    <strong>usability, visual psychology, and creative problem-solving</strong>.  
+    I enjoy crafting solutions where 
+    <strong>clean architecture and thoughtful design</strong> 
+    come together to create intuitive, meaningful products.
+  </p>
 </div>
+
 
 
 
