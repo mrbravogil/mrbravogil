@@ -44,15 +44,6 @@ Low-level programming challenges covering memory management, pointers, debugging
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbravogil&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbravogil&layout=compact&hide_border=true&theme=tokyonight)
-
-
----
-
 ## 🎨 What Drives Me
 
 I enjoy turning complex problems into clean, maintainable systems.  
