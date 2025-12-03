@@ -1,5 +1,5 @@
-<div align="center">
-  <h2>💜 Hi, I’m María — Full-Stack Developer & AI Enthusiast</h2>
+<div>
+  <h1 align="center">💜 Hi, I’m María — Full-Stack Developer & AI Enthusiast</h1>
 
   <p>
     I’m a <strong>Junior Full-Stack Developer</strong> with hands-on experience 
