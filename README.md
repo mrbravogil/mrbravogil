@@ -1,85 +1,96 @@
 <div>
-  <h1 align="center">👋 Hi, I’m María — Full-Stack Developer & AI Enthusiast</h1>
+  <h1 align="center">👋 Hola, soy María — Desarrolladora Full-Stack & Entusiasta de la IA</h1>
 
   <p>
-    I’m a <strong>Junior Full-Stack Developer</strong> with hands-on experience 
-    building scalable and elegant web applications using 
-    <strong>Angular, React, Node.js, Java, Python, and SQL</strong>.
+    Soy <strong>Desarrolladora Full-Stack Junior</strong> con experiencia práctica 
+    en la creación de aplicaciones web escalables y elegantes utilizando 
+    <strong>Angular, React, Node.js, Java, Python y SQL</strong>.
   </p>
 
   <p>
-    Currently expanding my skills in 
-    <strong>Artificial Intelligence, Machine Learning</strong>, and 
-    <strong>low-level C programming</strong> through the rigorous peer-to-peer 
-    methodology at <strong>42 Málaga – Telefónica</strong>.
+    Actualmente estoy ampliando mis conocimientos en 
+    <strong>Inteligencia Artificial, Machine Learning</strong> y 
+    <strong>programación en C a bajo nivel</strong> a través de la exigente 
+    metodología peer-to-peer de <strong>42 Málaga – Telefónica</strong>.
   </p>
 
   <p>
-    I approach software as an experience shaped by 
-    <strong>usability, visual psychology, and creative problem-solving</strong>.  
-    I enjoy crafting solutions where 
-    <strong>clean architecture and thoughtful design</strong> 
-    come together to create intuitive, meaningful products.
+    Entiendo el software como una experiencia moldeada por la 
+    <strong>usabilidad, la psicología visual y la resolución creativa de problemas</strong>.  
+    Disfruto creando soluciones donde la 
+    <strong>arquitectura limpia y el diseño bien pensado</strong> 
+    se combinan para dar lugar a productos intuitivos y significativos.
   </p>
 </div>
 
+---
 
-
-
-## 🚀 Tech Stack
+## 🚀 Stack Tecnológico
 
 ### **Frontend**
-- **Frameworks/Libraries:** Angular · React · Vue  
-- **Core:** JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind
+- **Frameworks/Librerías:** Angular · React · Vue  
+- **Base:** JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind
 
 ### **Backend**
-- **Languages:** Java · Python · C  
+- **Lenguajes:** Java · Python · C  
 - **Frameworks:** Spring Boot · Node.js · Express  
-- **Databases:** MySQL · PostgreSQL · SQL/NoSQL fundamentals  
+- **Bases de datos:** MySQL · PostgreSQL · Fundamentos SQL/NoSQL  
 
-### **AI & Data**
+### **IA & Datos**
 - Python · NumPy · Pandas · Scikit-learn  
-- Data analysis and visualization with Jupyter Notebook
+- Análisis y visualización de datos con Jupyter Notebook
 
-### **Tools & Methodologies**
+### **Herramientas & Metodologías**
 - Git · Linux · Figma · Agile/Scrum  
-- Debugging, algorithms, clean code principles
+- Depuración, algoritmos y principios de código limpio
 
+---
 
-## 🛠️ Featured Projects
+## 🛠️ Proyectos Destacados
 
-### 🔹 **Full-Stack Web Application (React + Node.js + MySQL)**
-A complete CRUD platform with user authentication, modular components, responsive UI, and RESTful API integration.
+### 🔹 **Aplicación Web Full-Stack (React + Node.js + MySQL)**
+Plataforma CRUD completa con autenticación de usuarios, componentes modulares, interfaz responsive e integración mediante API REST.
 
-**Customizable Trivial :** https://github.com/mrbravogil/Trivial-Customizable 
+**Trivial Personalizable:**  
+https://github.com/mrbravogil/Trivial-Customizable 
 
-### 🔹 **Angular Project – Component-Driven Architecture**
-Frontend application showcasing routing, services, state handling, and reusable UI components.
+### 🔹 **Proyecto Angular – Arquitectura Basada en Componentes**
+Aplicación frontend que demuestra el uso de routing, servicios, gestión de estado y componentes reutilizables.
 
-**Interactive Map App :** https://zesty-baklava-649003.netlify.app/
+**Aplicación de Mapa Interactivo:**  
+https://zesty-baklava-649003.netlify.app/
 
-### 🔹 **Machine Learning Models (Python + Scikit-learn)**
-Exploratory data analysis, preprocessing pipelines, supervised learning models, and result visualization.
+### 🔹 **Modelos de Machine Learning (Python + Scikit-learn)**
+Análisis exploratorio de datos, pipelines de preprocesado, modelos de aprendizaje supervisado y visualización de resultados.
 
-### 🔹 **42 Projects – C & Algorithms**
-Low-level programming challenges covering memory management, pointers, debugging, and constraint-based problem solving.
+**Modelo de Clasificación Binaria de Tráfico de Red:**  
+https://github.com/mrbravogil/ia_cyber_binary_es
 
-**Libft :** https://github.com/mrbravogil/libft
+### 🔹 **Proyectos 42 – C y Algoritmos**
+Retos de programación a bajo nivel centrados en gestión de memoria, punteros, depuración y resolución de problemas bajo restricciones.
 
+**Libft:**  
+https://github.com/mrbravogil/libft
+**Print_f:** 
+https://github.com/mrbravogil/printf
 
-## 🎨 What Drives Me
+---
 
-With a background in design, I approach software as both a technical craft and a creative experience. I’m driven by how **psychology, visual language, and user behavior** shape the way people interact with digital products.
+## 🎨 Qué me Motiva
 
-I enjoy turning ideas into intuitive interfaces and clean architectures — where **creativity meets logic** and every detail has a purpose. My goal is to build software that not only works well, but also feels right.
+Con formación en diseño, abordo el desarrollo de software como una disciplina tanto técnica como creativa. Me motiva comprender cómo la **psicología, el lenguaje visual y el comportamiento del usuario** influyen en la interacción con los productos digitales.
 
+Disfruto transformando ideas en interfaces intuitivas y arquitecturas limpias, donde **la creatividad se une a la lógica** y cada detalle tiene un propósito. Mi objetivo es crear software que no solo funcione bien, sino que también se sienta bien al usarlo.
 
-## 📫 Let’s Connect
+---
+
+## 📫 Contacto
 
 - **LinkedIn:** https://www.linkedin.com/in/mrbravogil  
-- **Portfolio (optional):**  https://portfolio-web-maria-rosa-bravo-s-projects.vercel.app/es 
+- **Portfolio (opcional):** https://portfolio-web-maria-rosa-bravo-s-projects.vercel.app/es  
 - **Email:** mrbravogil@gmail.com  
 
+---
 
-### ✨ *Always building, always learning.*
+### ✨ *Siempre construyendo, siempre aprendiendo.*
 
