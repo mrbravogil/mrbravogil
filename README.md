@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">👋 Hola, soy María — Desarrolladora Full-Stack & Entusiasta de la IA</h1>
+  <h1 align="center">👋 Hola, soy María — Desarrolladora Full-Stack & Entusiasta en IA</h1>
 
  <p>
   Soy <strong>Desarrolladora Full-Stack Junior</strong> con experiencia en el desarrollo 
@@ -72,7 +72,7 @@ Retos de programación a bajo nivel centrados en gestión de memoria, punteros, 
 
 **Libft:**  
 https://github.com/mrbravogil/libft
-** **
+
 **Print_f:** 
 https://github.com/mrbravogil/printf
 
