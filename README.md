@@ -1,26 +1,27 @@
 <div>
   <h1 align="center">👋 Hola, soy María — Desarrolladora Full-Stack & Entusiasta de la IA</h1>
 
-  <p>
-    Soy <strong>Desarrolladora Full-Stack Junior</strong> con experiencia práctica 
-    en la creación de aplicaciones web escalables y elegantes utilizando 
-    <strong>Angular, React, Node.js, Java, Python y SQL</strong>.
-  </p>
+ <p>
+  Soy <strong>Desarrolladora Full-Stack Junior</strong> con experiencia en el desarrollo 
+  de aplicaciones web funcionales y bien estructuradas, participando en todas las fases 
+  del proyecto, desde la idea inicial hasta su implementación. He trabajado con 
+  <strong>Angular, React, Node.js, Java, Python y bases de datos SQL</strong>.
+</p>
 
-  <p>
-    Actualmente estoy ampliando mis conocimientos en 
-    <strong>Inteligencia Artificial, Machine Learning</strong> y 
-    <strong>programación en C a bajo nivel</strong> a través de la exigente 
-    metodología peer-to-peer de <strong>42 Málaga – Telefónica</strong>.
-  </p>
+<p>
+  Actualmente continúo formándome en <strong>Inteligencia Artificial y Machine Learning</strong>, 
+  así como en <strong>programación en C</strong>, a través de la metodología práctica y 
+  colaborativa de <strong>42 Málaga – Telefónica</strong>, enfocada en el aprendizaje 
+  autónomo y la resolución de problemas reales.
+</p>
 
-  <p>
-    Entiendo el software como una experiencia moldeada por la 
-    <strong>usabilidad, la psicología visual y la resolución creativa de problemas</strong>.  
-    Disfruto creando soluciones donde la 
-    <strong>arquitectura limpia y el diseño bien pensado</strong> 
-    se combinan para dar lugar a productos intuitivos y significativos.
-  </p>
+<p>
+  Me gusta crear software pensando en las personas que lo van a utilizar, cuidando la 
+  <strong>usabilidad, la claridad y la experiencia de usuario</strong>. Disfruto trabajando 
+  en proyectos donde el <strong>diseño, la organización del código y la atención al detalle</strong> 
+  ayudan a construir productos útiles, intuitivos y fáciles de mantener.
+</p>
+
 </div>
 
 ---
