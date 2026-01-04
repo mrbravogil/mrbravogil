@@ -52,29 +52,24 @@
 ### 🔹 **Aplicación Web Full-Stack (React + Node.js + MySQL)**
 Plataforma CRUD completa con autenticación de usuarios, componentes modulares, interfaz responsive e integración mediante API REST.
 
-**Trivial Personalizable:**  
-https://github.com/mrbravogil/Trivial-Customizable 
+**Trivial Personalizable:** https://github.com/mrbravogil/Trivial-Customizable 
 
 ### 🔹 **Proyecto Angular – Arquitectura Basada en Componentes**
 Aplicación frontend que demuestra el uso de routing, servicios, gestión de estado y componentes reutilizables.
 
-**Aplicación de Mapa Interactivo:**  
-https://zesty-baklava-649003.netlify.app/
+**Aplicación de Mapa Interactivo:** https://zesty-baklava-649003.netlify.app/
 
 ### 🔹 **Modelos de Machine Learning (Python + Scikit-learn)**
 Análisis exploratorio de datos, pipelines de preprocesado, modelos de aprendizaje supervisado y visualización de resultados.
 
-**Modelo de Clasificación Binaria de Tráfico de Red:**  
-https://github.com/mrbravogil/ia_cyber_binary_es
+**Modelo de Clasificación Binaria de Tráfico de Red:** https://github.com/mrbravogil/ia_cyber_binary_es
 
 ### 🔹 **Proyectos 42 – C y Algoritmos**
 Retos de programación a bajo nivel centrados en gestión de memoria, punteros, depuración y resolución de problemas bajo restricciones.
 
-**Libft:**  
-https://github.com/mrbravogil/libft
+**Libft:** https://github.com/mrbravogil/libft
 
-**Print_f:** 
-https://github.com/mrbravogil/printf
+**Print_f:** https://github.com/mrbravogil/printf
 
 ---
 
@@ -89,7 +84,7 @@ Disfruto transformando ideas en interfaces intuitivas y arquitecturas limpias, d
 ## 📫 Contacto
 
 - **LinkedIn:** https://www.linkedin.com/in/mrbravogil  
-- **Portfolio (opcional):** https://portfolio-web-maria-rosa-bravo-s-projects.vercel.app/es  
+- **Portfolio:** https://portfolio-web-maria-rosa-bravo-s-projects.vercel.app/es  
 - **Email:** mrbravogil@gmail.com  
 
 ---
