@@ -63,6 +63,7 @@ Aplicación frontend que demuestra el uso de routing, servicios, gestión de est
 Análisis exploratorio de datos, pipelines de preprocesado, modelos de aprendizaje supervisado y visualización de resultados.
 
 **Modelo de Clasificación Binaria de Tráfico de Red:** https://github.com/mrbravogil/ia_cyber_binary_es
+
 **Kaggle:** https://www.kaggle.com/code/mariabravodev/from-network-flows-to-siem-alerts-cicids2017
 
 ### 🔹 **Proyectos 42 – C y Algoritmos**
