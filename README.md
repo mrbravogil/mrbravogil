@@ -2,7 +2,7 @@
   <h1 align="center">👋 Hola, soy María — Desarrolladora Full-Stack & Entusiasta en IA</h1>
 
  <p>
-  Soy <strong>Desarrolladora Full-Stack Junior</strong> con experiencia en el desarrollo 
+  Soy <strong>Desarrolladora Full-Stack</strong> con experiencia en el desarrollo 
   de aplicaciones web funcionales y bien estructuradas, participando en todas las fases 
   del proyecto, desde la idea inicial hasta su implementación. He trabajado con 
   <strong>Angular, React, Node.js, Java, Python y bases de datos SQL</strong>.
