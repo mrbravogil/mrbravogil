@@ -31,7 +31,7 @@
 
 ### **Backend**
 - **Languages:** Java · Python · C  
-- **Frameworks:** Spring Boot · Node.js · Express  
+- **Frameworks:** Spring Boot · Node.js · Express · FastAPI  
 - **Databases:** MySQL · PostgreSQL · SQL/NoSQL fundamentals
 
 ### **AI & Data**
@@ -69,6 +69,16 @@ Low-level programming challenges focused on memory management, pointers, debuggi
 **Libft:** https://github.com/mrbravogil/libft
 
 **Print_f:** https://github.com/mrbravogil/printf
+
+---
+
+## 🔎 Featured Project: CyberAI Threat Detection Backend
+
+**CyberAI Threat Detection Backend** is a full-stack final master’s project that reflects my interest in combining software engineering, cybersecurity, and intelligent systems. It is a web application built with **Angular, FastAPI, and Spring Boot**, designed to support threat detection workflows through a robust backend architecture and a thoughtful user experience.
+
+This project represents the kind of work I enjoy most: building solutions that are technically solid, meaningful, and designed to solve real problems. It brings together backend development, API design, and applied AI thinking in a project with strong practical value.
+
+**Repository:** https://github.com/mrbravogil/cyberai-threat-detection-backend
 
 ---
 
