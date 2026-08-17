@@ -1,73 +1,70 @@
 <div>
-  <h1 align="center">👋 Hola, soy María — Desarrolladora Full-Stack & Entusiasta en IA</h1>
+  <h1 align="center">👋 Hi, I'm María — Full-Stack Developer & AI Enthusiast</h1>
 
  <p>
-  Soy <strong>Desarrolladora Full-Stack</strong> con experiencia en el desarrollo 
-  de aplicaciones web funcionales y bien estructuradas, participando en todas las fases 
-  del proyecto, desde la idea inicial hasta su implementación. He trabajado con 
-  <strong>Angular, React, Node.js, Java, Python y bases de datos SQL</strong>.
+  I am a <strong>Full-Stack Developer</strong> with experience building functional and well-structured web applications, participating in every phase of the project, from the initial idea to implementation. I have worked with
+  <strong>Angular, React, Node.js, Java, Python, and SQL databases</strong>.
 </p>
 
 <p>
-  Actualmente continúo formándome en <strong>Inteligencia Artificial y Machine Learning</strong>, 
-  así como en <strong>programación en C</strong>, a través de la metodología práctica y 
-  colaborativa de <strong>42 Málaga – Telefónica</strong>, enfocada en el aprendizaje 
-  autónomo y la resolución de problemas reales.
+  I am currently continuing my training in <strong>Artificial Intelligence and Machine Learning</strong>,
+  as well as <strong>C programming</strong>, through the practical and collaborative methodology of
+  <strong>42 Málaga – Telefónica</strong>, focused on autonomous learning and solving real-world problems.
 </p>
 
 <p>
-  Me gusta crear software pensando en las personas que lo van a utilizar, cuidando la 
-  <strong>usabilidad, la claridad y la experiencia de usuario</strong>. Disfruto trabajando 
-  en proyectos donde el <strong>diseño, la organización del código y la atención al detalle</strong> 
-  ayudan a construir productos útiles, intuitivos y fáciles de mantener.
+  I like creating software with the people who will use it in mind, taking care of
+  <strong>usability, clarity, and user experience</strong>. I enjoy working on projects where
+  <strong>design, code organization, and attention to detail</strong> help build useful, intuitive,
+  and easy-to-maintain products.
 </p>
 
 </div>
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🚀 Technology Stack
 
 ### **Frontend**
-- **Frameworks/Librerías:** Angular · React · Vue  
-- **Base:** JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind
+- **Frameworks/Libraries:** Angular · React · Vue  
+- **Core:** JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind
 
 ### **Backend**
-- **Lenguajes:** Java · Python · C  
+- **Languages:** Java · Python · C  
 - **Frameworks:** Spring Boot · Node.js · Express  
-- **Bases de datos:** MySQL · PostgreSQL · Fundamentos SQL/NoSQL  
+- **Databases:** MySQL · PostgreSQL · SQL/NoSQL fundamentals
 
-### **IA & Datos**
+### **AI & Data**
 - Python · NumPy · Pandas · Scikit-learn  
-- Análisis y visualización de datos con Jupyter Notebook
+- Data analysis and visualization with Jupyter Notebook
 
-### **Herramientas & Metodologías**
+### **Tools & Methodologies**
 - Git · Linux · Figma · Agile/Scrum  
-- Depuración, algoritmos y principios de código limpio
+- Debugging, algorithms, and clean code principles
 
 ---
 
-## 🛠️ Proyectos Destacados
+## 🛠️ Featured Projects
 
-### 🔹 **Aplicación Web Full-Stack (React + Node.js + MySQL)**
-Plataforma CRUD completa con autenticación de usuarios, componentes modulares, interfaz responsive e integración mediante API REST.
+### 🔹 **Full-Stack Web Application (React + Node.js + MySQL)**
+A complete CRUD platform with user authentication, modular components, responsive interface, and REST API integration.
 
-**Trivial Personalizable:** https://github.com/mrbravogil/Trivial-Customizable 
+**Customizable Trivia:** https://github.com/mrbravogil/Trivial-Customizable 
 
-### 🔹 **Proyecto Angular – Arquitectura Basada en Componentes**
-Aplicación frontend que demuestra el uso de routing, servicios, gestión de estado y componentes reutilizables.
+### 🔹 **Angular Project – Component-Based Architecture**
+A frontend application that demonstrates routing, services, state management, and reusable components.
 
-**Aplicación de Mapa Interactivo:** https://zesty-baklava-649003.netlify.app/
+**Interactive Map Application:** https://zesty-baklava-649003.netlify.app/
 
-### 🔹 **Modelos de Machine Learning (Python + Scikit-learn)**
-Análisis exploratorio de datos, pipelines de preprocesado, modelos de aprendizaje supervisado y visualización de resultados.
+### 🔹 **Machine Learning Models (Python + Scikit-learn)**
+Exploratory data analysis, preprocessing pipelines, supervised learning models, and results visualization.
 
-**Modelo de Clasificación Binaria de Tráfico de Red:** https://github.com/mrbravogil/ia_cyber_binary_es
+**Binary Network Traffic Classification Model:** https://github.com/mrbravogil/ia_cyber_binary_es
 
 **Kaggle:** https://www.kaggle.com/code/mariabravodev/from-network-flows-to-siem-alerts-cicids2017
 
-### 🔹 **Proyectos 42 – C y Algoritmos**
-Retos de programación a bajo nivel centrados en gestión de memoria, punteros, depuración y resolución de problemas bajo restricciones.
+### 🔹 **42 Projects – C and Algorithms**
+Low-level programming challenges focused on memory management, pointers, debugging, and problem-solving under constraints.
 
 **Libft:** https://github.com/mrbravogil/libft
 
@@ -75,15 +72,15 @@ Retos de programación a bajo nivel centrados en gestión de memoria, punteros, 
 
 ---
 
-## 🎨 Qué me Motiva
+## 🎨 What Motivates Me
 
-Con formación en diseño, abordo el desarrollo de software como una disciplina tanto técnica como creativa. Me motiva comprender cómo la **psicología, el lenguaje visual y el comportamiento del usuario** influyen en la interacción con los productos digitales.
+With a background in design, I approach software development as both a technical and creative discipline. I am motivated by understanding how **psychology, visual language, and user behavior** influence the way people interact with digital products.
 
-Disfruto transformando ideas en interfaces intuitivas y arquitecturas limpias, donde **la creatividad se une a la lógica** y cada detalle tiene un propósito. Mi objetivo es crear software que no solo funcione bien, sino que también se sienta bien al usarlo.
+I enjoy transforming ideas into intuitive interfaces and clean architectures, where **creativity meets logic** and every detail has a purpose. My goal is to create software that not only works well, but also feels natural, clear, and meaningful to the people who use it.
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/mrbravogil  
 - **Portfolio:** https://portfolio-web-maria-rosa-bravo-s-projects.vercel.app/es  
@@ -91,5 +88,4 @@ Disfruto transformando ideas en interfaces intuitivas y arquitecturas limpias, d
 
 ---
 
-### ✨ *Siempre construyendo, siempre aprendiendo.*
-
+### ✨ *Always building, always learning.*
