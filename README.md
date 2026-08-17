@@ -92,7 +92,7 @@ Enjoy transforming ideas into intuitive interfaces and clean architectures, wher
 ## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/mrbravogil  
-- **Portfolio:** https://portfolio-web-maria-rosa-bravo-s-projects.vercel.app/en  
+- **Portfolio:** https://portfolio-web-g82m.vercel.app/en/
 - **Email:** mrbravogil@gmail.com  
 
 ---
